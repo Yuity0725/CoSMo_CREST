@@ -1,4 +1,3 @@
-# reCosMo
 
 Official Implementation of **[CoSMo: Content-Style Modulation for Image Retrieval with Text Feedback](https://openaccess.thecvf.com/content/CVPR2021/html/Lee_CoSMo_Content-Style_Modulation_for_Image_Retrieval_With_Text_Feedback_CVPR_2021_paper.html)**, Seungmin Lee*, Dongwan Kim*, Bohyung Han. *(*denotes equal contribution)*
 
@@ -78,7 +77,4 @@ If you use our code, please cite our work:
     year      = {2021},
     pages     = {802-812}
 }
-```
-# reCosMo
-# reCosMo
-# reCosMo
+``
