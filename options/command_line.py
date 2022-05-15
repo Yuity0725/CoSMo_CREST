@@ -74,7 +74,7 @@ parser.add_argument('--gamma', type=float, default=0.1, help='learning rate deca
 #########################
 parser.add_argument('--topk', type=str, default='1,5,10,50', help='topK recall for evaluation')
 parser.add_argument('--wandb_project_name', type=str, default='CoSMo.pytorch', help='Weights & Biases project name')
-parser.add_argument('--wandb_account_name', type=str, default='your_account_name', help='Weights & Biases account name')
+parser.add_argument('--wandb_account_name', type=str, default='yuity0725', help='Weights & Biases account name')
 
 #########################
 # Resume Training
