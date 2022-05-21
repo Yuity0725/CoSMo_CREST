@@ -5,7 +5,7 @@ import torch
 import numpy as np
 bc = BertClient()
 
-_DEFAULT_FASHION_IQ_DATASET_ROOT = '../drive/MyDrive/CREST'
+_DEFAULT_FASHION_IQ_DATASET_ROOT = '../CREST'
 
 
 def get_bert_feature(dataset_root, clothing_type, split):

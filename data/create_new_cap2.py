@@ -8,8 +8,8 @@ import os
 import cv2
 import numpy as np
 
-_DEFAULT_FASHION_IQ_DATASET_ROOT = '../drive/MyDrive/CREST'
-_DEFAULT_FASHION_IQ_VOCAB_PATH = '../drive/MyDrive/CREST/fashion_iq_vocab.pkl'
+_DEFAULT_FASHION_IQ_DATASET_ROOT = '../CREST'
+_DEFAULT_FASHION_IQ_VOCAB_PATH = '../CREST/fashion_iq_vocab.pkl'
 
 
 def get_img_caption_json(dataset_root, clothing_type, split):
